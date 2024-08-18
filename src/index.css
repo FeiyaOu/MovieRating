@@ -25,9 +25,9 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 
   color: var(--color-text);
-  /* color: black; */
+
   background-color: var(--color-background-900);
-  /* background-color: pink; */
+
   padding: 2.4rem;
 }
 
@@ -327,7 +327,7 @@ body {
   aspect-ratio: 1;
   border-radius: 50%;
   border: none;
-  /* background-color: var(--color-text); */
+
   background-color: #fff;
   color: var(--color-background-500);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
